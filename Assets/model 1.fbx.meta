@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 16e632797954a410c866cde0aa3de10e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: juanyig_asst13_2:body
+    100002: juanyig_asst13_2:body1
+    100004: juanyig_asst13_2:charact
+    100006: juanyig_asst13_2:chest
+    100008: juanyig_asst13_2:chin
+    100010: juanyig_asst13_2:dress
+    100012: juanyig_asst13_2:eye1
+    100014: juanyig_asst13_2:eye2
+    100016: juanyig_asst13_2:eyebrow1
+    100018: juanyig_asst13_2:eyebrow2
+    100020: juanyig_asst13_2:eyebrow3
+    100022: juanyig_asst13_2:eyebrow4
+    100024: juanyig_asst13_2:eyebrow5
+    100026: juanyig_asst13_2:eyebrrow
+    100028: juanyig_asst13_2:hair
+    100030: juanyig_asst13_2:hand
+    100032: juanyig_asst13_2:hat
+    100034: juanyig_asst13_2:hat_control
+    100036: juanyig_asst13_2:hat_control1
+    100038: juanyig_asst13_2:hat_control2
+    100040: juanyig_asst13_2:hat_control3
+    100042: juanyig_asst13_2:hat_control4
+    100044: juanyig_asst13_2:hat_control5
+    100046: juanyig_asst13_2:jaw
+    100048: juanyig_asst13_2:joint1
+    100050: juanyig_asst13_2:joint10
+    100052: juanyig_asst13_2:joint11
+    100054: juanyig_asst13_2:joint13
+    100056: juanyig_asst13_2:joint14
+    100058: juanyig_asst13_2:joint16
+    100060: juanyig_asst13_2:joint17
+    100062: juanyig_asst13_2:joint19
+    100064: juanyig_asst13_2:joint2
+    100066: juanyig_asst13_2:joint2 1
+    100068: juanyig_asst13_2:joint2 2
+    100070: juanyig_asst13_2:joint2 3
+    100072: juanyig_asst13_2:joint2 4
+    100074: juanyig_asst13_2:joint2 5
+    100076: juanyig_asst13_2:joint2 6
+    100078: juanyig_asst13_2:joint2 7
+    100080: juanyig_asst13_2:joint2 8
+    100082: juanyig_asst13_2:joint2 9
+    100084: juanyig_asst13_2:joint20
+    100086: juanyig_asst13_2:joint22
+    100088: juanyig_asst13_2:joint23
+    100090: juanyig_asst13_2:joint25
+    100092: juanyig_asst13_2:joint26
+    100094: juanyig_asst13_2:joint27
+    100096: juanyig_asst13_2:joint29
+    100098: juanyig_asst13_2:joint3
+    100100: juanyig_asst13_2:joint3 1
+    100102: juanyig_asst13_2:joint3 2
+    100104: juanyig_asst13_2:joint3 3
+    100106: juanyig_asst13_2:joint3 4
+    100108: juanyig_asst13_2:joint3 5
+    100110: juanyig_asst13_2:joint3 6
+    100112: juanyig_asst13_2:joint3 7
+    100114: juanyig_asst13_2:joint3 8
+    100116: juanyig_asst13_2:joint3 9
+    100118: juanyig_asst13_2:joint30
+    100120: juanyig_asst13_2:joint31
+    100122: juanyig_asst13_2:joint33
+    100124: juanyig_asst13_2:joint34
+    100126: juanyig_asst13_2:joint35
+    100128: juanyig_asst13_2:joint36
+    100130: juanyig_asst13_2:joint38
+    100132: juanyig_asst13_2:joint39
+    100134: juanyig_asst13_2:joint4
+    100136: juanyig_asst13_2:joint40
+    100138: juanyig_asst13_2:joint41
+    100140: juanyig_asst13_2:joint43
+    100142: juanyig_asst13_2:joint44
+    100144: juanyig_asst13_2:joint45
+    100146: juanyig_asst13_2:joint46
+    100148: juanyig_asst13_2:joint47
+    100150: juanyig_asst13_2:joint5
+    100152: juanyig_asst13_2:joint6
+    100154: juanyig_asst13_2:joint7
+    100156: juanyig_asst13_2:l_ankle
+    100158: juanyig_asst13_2:l_ball
+    100160: juanyig_asst13_2:l_clav
+    100162: juanyig_asst13_2:l_elbow
+    100164: juanyig_asst13_2:l_eye
+    100166: juanyig_asst13_2:L_eye1
+    100168: juanyig_asst13_2:L_eye2
+    100170: juanyig_asst13_2:L_eye3
+    100172: juanyig_asst13_2:L_eye4
+    100174: juanyig_asst13_2:L_eye5
+    100176: juanyig_asst13_2:L_eye6
+    100178: juanyig_asst13_2:l_femur
+    100180: juanyig_asst13_2:l_hand
+    100182: juanyig_asst13_2:l_humerus
+    100184: juanyig_asst13_2:l_knee
+    100186: juanyig_asst13_2:l_toe
+    100188: juanyig_asst13_2:l_wrist
+    100190: juanyig_asst13_2:lower_lip
+    100192: juanyig_asst13_2:mouth_l
+    100194: juanyig_asst13_2:mouth_lower1
+    100196: juanyig_asst13_2:mouth_lower2
+    100198: juanyig_asst13_2:mouth_r
+    100200: juanyig_asst13_2:mouth_upp1
+    100202: juanyig_asst13_2:mouth_upp2
+    100204: juanyig_asst13_2:neck1
+    100206: juanyig_asst13_2:neck2
+    100208: juanyig_asst13_2:pelvis
+    100210: juanyig_asst13_2:r_ankle
+    100212: juanyig_asst13_2:r_ball
+    100214: juanyig_asst13_2:r_clav
+    100216: juanyig_asst13_2:r_elbow
+    100218: juanyig_asst13_2:r_eye
+    100220: juanyig_asst13_2:r_eye1
+    100222: juanyig_asst13_2:r_eye2
+    100224: juanyig_asst13_2:r_eye3
+    100226: juanyig_asst13_2:r_eye4
+    100228: juanyig_asst13_2:r_eye5
+    100230: juanyig_asst13_2:r_eye6
+    100232: juanyig_asst13_2:r_femur
+    100234: juanyig_asst13_2:r_finger1
+    100236: juanyig_asst13_2:r_finger2
+    100238: juanyig_asst13_2:r_finger3
+    100240: juanyig_asst13_2:r_finger4
+    100242: juanyig_asst13_2:r_finger5
+    100244: juanyig_asst13_2:r_hand
+    100246: juanyig_asst13_2:r_humerus
+    100248: juanyig_asst13_2:r_knee
+    100250: juanyig_asst13_2:r_toe
+    100252: juanyig_asst13_2:r_wrist
+    100254: juanyig_asst13_2:spineA
+    100256: juanyig_asst13_2:spineB
+    100258: juanyig_asst13_2:tent1
+    100260: juanyig_asst13_2:tent2
+    100262: juanyig_asst13_2:tent3
+    100264: juanyig_asst13_2:tent4
+    100266: juanyig_asst13_2:tent5
+    100268: juanyig_asst13_2:tent_control1
+    100270: juanyig_asst13_2:tent_control2
+    100272: juanyig_asst13_2:tent_control3
+    100274: juanyig_asst13_2:tent_control4
+    100276: juanyig_asst13_2:tent_control5
+    100278: juanyig_asst13_2:transform1
+    100280: juanyig_asst13_2:transform2
+    100282: juanyig_asst13_2:upper_face
+    100284: //RootNode
+    400000: juanyig_asst13_2:body
+    400002: juanyig_asst13_2:body1
+    400004: juanyig_asst13_2:charact
+    400006: juanyig_asst13_2:chest
+    400008: juanyig_asst13_2:chin
+    400010: juanyig_asst13_2:dress
+    400012: juanyig_asst13_2:eye1
+    400014: juanyig_asst13_2:eye2
+    400016: juanyig_asst13_2:eyebrow1
+    400018: juanyig_asst13_2:eyebrow2
+    400020: juanyig_asst13_2:eyebrow3
+    400022: juanyig_asst13_2:eyebrow4
+    400024: juanyig_asst13_2:eyebrow5
+    400026: juanyig_asst13_2:eyebrrow
+    400028: juanyig_asst13_2:hair
+    400030: juanyig_asst13_2:hand
+    400032: juanyig_asst13_2:hat
+    400034: juanyig_asst13_2:hat_control
+    400036: juanyig_asst13_2:hat_control1
+    400038: juanyig_asst13_2:hat_control2
+    400040: juanyig_asst13_2:hat_control3
+    400042: juanyig_asst13_2:hat_control4
+    400044: juanyig_asst13_2:hat_control5
+    400046: juanyig_asst13_2:jaw
+    400048: juanyig_asst13_2:joint1
+    400050: juanyig_asst13_2:joint10
+    400052: juanyig_asst13_2:joint11
+    400054: juanyig_asst13_2:joint13
+    400056: juanyig_asst13_2:joint14
+    400058: juanyig_asst13_2:joint16
+    400060: juanyig_asst13_2:joint17
+    400062: juanyig_asst13_2:joint19
+    400064: juanyig_asst13_2:joint2
+    400066: juanyig_asst13_2:joint2 1
+    400068: juanyig_asst13_2:joint2 2
+    400070: juanyig_asst13_2:joint2 3
+    400072: juanyig_asst13_2:joint2 4
+    400074: juanyig_asst13_2:joint2 5
+    400076: juanyig_asst13_2:joint2 6
+    400078: juanyig_asst13_2:joint2 7
+    400080: juanyig_asst13_2:joint2 8
+    400082: juanyig_asst13_2:joint2 9
+    400084: juanyig_asst13_2:joint20
+    400086: juanyig_asst13_2:joint22
+    400088: juanyig_asst13_2:joint23
+    400090: juanyig_asst13_2:joint25
+    400092: juanyig_asst13_2:joint26
+    400094: juanyig_asst13_2:joint27
+    400096: juanyig_asst13_2:joint29
+    400098: juanyig_asst13_2:joint3
+    400100: juanyig_asst13_2:joint3 1
+    400102: juanyig_asst13_2:joint3 2
+    400104: juanyig_asst13_2:joint3 3
+    400106: juanyig_asst13_2:joint3 4
+    400108: juanyig_asst13_2:joint3 5
+    400110: juanyig_asst13_2:joint3 6
+    400112: juanyig_asst13_2:joint3 7
+    400114: juanyig_asst13_2:joint3 8
+    400116: juanyig_asst13_2:joint3 9
+    400118: juanyig_asst13_2:joint30
+    400120: juanyig_asst13_2:joint31
+    400122: juanyig_asst13_2:joint33
+    400124: juanyig_asst13_2:joint34
+    400126: juanyig_asst13_2:joint35
+    400128: juanyig_asst13_2:joint36
+    400130: juanyig_asst13_2:joint38
+    400132: juanyig_asst13_2:joint39
+    400134: juanyig_asst13_2:joint4
+    400136: juanyig_asst13_2:joint40
+    400138: juanyig_asst13_2:joint41
+    400140: juanyig_asst13_2:joint43
+    400142: juanyig_asst13_2:joint44
+    400144: juanyig_asst13_2:joint45
+    400146: juanyig_asst13_2:joint46
+    400148: juanyig_asst13_2:joint47
+    400150: juanyig_asst13_2:joint5
+    400152: juanyig_asst13_2:joint6
+    400154: juanyig_asst13_2:joint7
+    400156: juanyig_asst13_2:l_ankle
+    400158: juanyig_asst13_2:l_ball
+    400160: juanyig_asst13_2:l_clav
+    400162: juanyig_asst13_2:l_elbow
+    400164: juanyig_asst13_2:l_eye
+    400166: juanyig_asst13_2:L_eye1
+    400168: juanyig_asst13_2:L_eye2
+    400170: juanyig_asst13_2:L_eye3
+    400172: juanyig_asst13_2:L_eye4
+    400174: juanyig_asst13_2:L_eye5
+    400176: juanyig_asst13_2:L_eye6
+    400178: juanyig_asst13_2:l_femur
+    400180: juanyig_asst13_2:l_hand
+    400182: juanyig_asst13_2:l_humerus
+    400184: juanyig_asst13_2:l_knee
+    400186: juanyig_asst13_2:l_toe
+    400188: juanyig_asst13_2:l_wrist
+    400190: juanyig_asst13_2:lower_lip
+    400192: juanyig_asst13_2:mouth_l
+    400194: juanyig_asst13_2:mouth_lower1
+    400196: juanyig_asst13_2:mouth_lower2
+    400198: juanyig_asst13_2:mouth_r
+    400200: juanyig_asst13_2:mouth_upp1
+    400202: juanyig_asst13_2:mouth_upp2
+    400204: juanyig_asst13_2:neck1
+    400206: juanyig_asst13_2:neck2
+    400208: juanyig_asst13_2:pelvis
+    400210: juanyig_asst13_2:r_ankle
+    400212: juanyig_asst13_2:r_ball
+    400214: juanyig_asst13_2:r_clav
+    400216: juanyig_asst13_2:r_elbow
+    400218: juanyig_asst13_2:r_eye
+    400220: juanyig_asst13_2:r_eye1
+    400222: juanyig_asst13_2:r_eye2
+    400224: juanyig_asst13_2:r_eye3
+    400226: juanyig_asst13_2:r_eye4
+    400228: juanyig_asst13_2:r_eye5
+    400230: juanyig_asst13_2:r_eye6
+    400232: juanyig_asst13_2:r_femur
+    400234: juanyig_asst13_2:r_finger1
+    400236: juanyig_asst13_2:r_finger2
+    400238: juanyig_asst13_2:r_finger3
+    400240: juanyig_asst13_2:r_finger4
+    400242: juanyig_asst13_2:r_finger5
+    400244: juanyig_asst13_2:r_hand
+    400246: juanyig_asst13_2:r_humerus
+    400248: juanyig_asst13_2:r_knee
+    400250: juanyig_asst13_2:r_toe
+    400252: juanyig_asst13_2:r_wrist
+    400254: juanyig_asst13_2:spineA
+    400256: juanyig_asst13_2:spineB
+    400258: juanyig_asst13_2:tent1
+    400260: juanyig_asst13_2:tent2
+    400262: juanyig_asst13_2:tent3
+    400264: juanyig_asst13_2:tent4
+    400266: juanyig_asst13_2:tent5
+    400268: juanyig_asst13_2:tent_control1
+    400270: juanyig_asst13_2:tent_control2
+    400272: juanyig_asst13_2:tent_control3
+    400274: juanyig_asst13_2:tent_control4
+    400276: juanyig_asst13_2:tent_control5
+    400278: juanyig_asst13_2:transform1
+    400280: juanyig_asst13_2:transform2
+    400282: juanyig_asst13_2:upper_face
+    400284: //RootNode
+    2100000: juanyig_asst13_2_juanyig_midterm_HW7_COLORED_aiStandardSurface11
+    2100002: juanyig_asst13_2_juanyig_midterm_HW7_COLORED_aiStandardSurface5
+    2100004: juanyig_asst13_2_juanyig_midterm_HW7_COLORED_aiStandardSurface3
+    2100006: juanyig_asst13_2_juanyig_midterm_HW7_COLORED_aiStandardSurface4
+    2100008: juanyig_asst13_2_juanyig_midterm_HW7_COLORED_aiStandardSurface7
+    2100010: juanyig_asst13_2_juanyig_midterm_HW7_COLORED_aiStandardSurface8
+    2100012: juanyig_asst13_2_juanyig_midterm_HW7_COLORED_aiStandardSurface10
+    2100014: juanyig_asst13_2_hair_remeshed_defaultMat1
+    4300000: juanyig_asst13_2:tent5
+    4300002: juanyig_asst13_2:tent4
+    4300004: juanyig_asst13_2:tent3
+    4300006: juanyig_asst13_2:tent2
+    4300008: juanyig_asst13_2:hat
+    4300010: juanyig_asst13_2:tent1
+    4300012: juanyig_asst13_2:body1
+    4300014: juanyig_asst13_2:eye1
+    4300016: juanyig_asst13_2:eye2
+    4300018: juanyig_asst13_2:dress
+    4300020: juanyig_asst13_2:hair
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: juanyig_asst13_2:body1
+    13700002: juanyig_asst13_2:dress
+    13700004: juanyig_asst13_2:eye1
+    13700006: juanyig_asst13_2:eye2
+    13700008: juanyig_asst13_2:hair
+    13700010: juanyig_asst13_2:hat
+    13700012: juanyig_asst13_2:tent1
+    13700014: juanyig_asst13_2:tent2
+    13700016: juanyig_asst13_2:tent3
+    13700018: juanyig_asst13_2:tent4
+    13700020: juanyig_asst13_2:tent5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

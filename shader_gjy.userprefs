@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{BAF9E50C-CCAC-50C5-D8CB-981B09E0DB51}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Cloth.shader">
+    <Files>
+      <File FileName="Assets/Skin.shader" Line="240" Column="104" />
+      <File FileName="Assets/eye.shader" Line="211" Column="17" />
+      <File FileName="Assets/PostProcessing.shader" Line="1" Column="1" />
+      <File FileName="Assets/Hair.shader" Line="240" Column="104" />
+      <File FileName="Assets/Demo.shader" Line="236" Column="71" />
+      <File FileName="Assets/Cloth.shader" Line="240" Column="96" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.shader__gjy PreferredExecutionTarget="Unity.Editor" />
+</Properties>
