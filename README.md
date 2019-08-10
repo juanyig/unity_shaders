@@ -2,7 +2,7 @@
 =======
 U3D Shaders Collection
 ======================
-![](https://github.com/juanyig/unity_shaders/blob/master/readme_screenshots/title.jpg)
+![](https://github.com/juanyig/unity_shaders/blob/master/readme_screenshots/title1.jpg)
 # Description
 These shaders are written completely by myself after my internship at Bilibili Company. The 3D model that is used for demonstration is also made on my own, and therefore cannot be used for any purpose. Most algorithms can be found in *Unity Shader 入门精要*. All references will be cited accordingly. 
 # Content
