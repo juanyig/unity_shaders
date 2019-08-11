@@ -19,7 +19,6 @@ These shaders are written completely by myself after my internship at Bilibili C
 
 ## Post-Processing 
 * Gaussian Blur
-* Bloom
 * Volumetric Light
 
 ### Basics
@@ -58,9 +57,18 @@ Toon shader is implemented as a simple 2-shade toon shader plus 1 specular color
 <br>
 
 ### Hair Shading
-In order to mimic realistic hair highlight, I implemented Kajiya-Kay's hair shading model. The most important concept Kajiya-Kay introduces is that specularity is influnced by tangent instead of normal in the lighting equation, that is, `Specular Color = dirAtten * pow(sinTH, HighlightPower) * LightColor * HighlightColor` and `sinTH = sqrt(1 - pow(dot(N, H),2))`. Then we can use a noise texture to intervene specularity on each tangent direction, thereby achieving the realistic zigzag highlight. This implementation also brought the concept of 2 highlight scattering from Marschner's hair model. Colors of both highlights can be chosen, and the shift between the two can be user-defined as well. Detailed algorithm explanation can be found on: [link1](http://web.engr.oregonstate.edu/~mjb/cs519/Projects/Papers/HairRendering.pdf) [link2](https://www.zhihu.com/question/36946353)<br>
+In order to mimic realistic hair highlight, I implemented Kajiya-Kay's hair shading model. The most important concept Kajiya-Kay introduces is that specularity is influnced by tangent instead of normal in the lighting equation, that is, `Specular Color = dirAtten * pow(sinTH, HighlightPower) * LightColor * HighlightColor` and `sinTH = sqrt(1 - pow(dot(N, H),2))`. Then we can use a noise texture to intervene specularity on each tangent direction, thereby achieving the realistic zigzag effect. This implementation also brought the concept of 2 highlight scattering from Marschner's hair model. Colors of both highlights can be chosen, and the shift between the two can be user-defined as well. Detailed algorithm explanation can be found on: [link1](http://web.engr.oregonstate.edu/~mjb/cs519/Projects/Papers/HairRendering.pdf) [link2](https://www.zhihu.com/question/36946353)<br>
 ![images](https://github.com/juanyig/unity_shaders/blob/master/readme_screenshots/14.png)<br>
 ![images](https://github.com/juanyig/unity_shaders/blob/master/readme_screenshots/15.png)<br>
 ![images](https://github.com/juanyig/unity_shaders/blob/master/readme_screenshots/16.png)<br>
 <br>
 ### Post-Processing
+#### Gaussian Blur
+Gaussian blur is implemented using the standard method where each pixel's color is determined by its own color and its surrounding pixels' color, and is weighted according to standard normal distribution. (TODO) Algroithm can be optimized.<br>
+![images](https://github.com/juanyig/unity_shaders/blob/master/readme_screenshots/21.png)<br>
+*without blur*![images](https://github.com/juanyig/unity_shaders/blob/master/readme_screenshots/17.png)<br>
+*with blur*![images](https://github.com/juanyig/unity_shaders/blob/master/readme_screenshots/18.png)<br>
+<br>
+
+#### Volumetric Light
+(TODO)
